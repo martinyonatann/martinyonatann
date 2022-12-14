@@ -1,6 +1,6 @@
 ### Hi there 👋 i'am Martin Yonatan Pasaribu 
 
-- 🔭 I’m currently working on [Koinworks Neo](https://koinworks.com/neo/)
+- 🔭 I’m currently working on Java and Golang
 - 📫 How to reach me: [linkedin.com/in/martinyonatanpasaribu](https://www.linkedin.com/in/martinyonatanpasaribu/)
 - ⚡ Fun fact: I had to become a backend because I couldn't design
 
