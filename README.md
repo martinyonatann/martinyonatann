@@ -5,9 +5,6 @@
 - ⚡ Fun fact: I had to become a backend because I couldn't design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyonatann)](https://github.com/martinyonatann/martinyonatann)
-
- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=martinyonatann&theme=github)
-
 <!--
 **martinyonatann/martinyonatann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
