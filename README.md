@@ -1,6 +1,6 @@
 ### Hi there 👋 i'am Martin Yonatan Pasaribu 
 
-[![@martinyonatann's Holopin board](https://holopin.me/martinyonatann)](https://holopin.io/@martinyonatann)
+[![An image of @martinyonatann's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/martinyonatann)](https://holopin.io/@martinyonatann)
 
 - 🔭 I’m currently working on Java and Golang
 - 📫 How to reach me: [linkedin.com/in/martinyonatanpasaribu](https://www.linkedin.com/in/martinyonatanpasaribu/)
