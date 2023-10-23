@@ -7,7 +7,7 @@ I'm a Martin Yonatan Pasaribu, Software Developer focusing on Golang and Java. <
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinpasaribu)](https://www.linkedin.com/in/martinpasaribu/)
 [![Linkedin Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&logoColor=white&link=https://t.me/AlexanderBryksin)](https://t.me/martinyonathann)
-[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@martinyonathann)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@martinyonathann)](https://medium.com/@martinyonathann)
 
 <br />
 
