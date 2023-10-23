@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <h3>📈 My Github Stats</h3>
 
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinyonatann&show_icons=true&theme=dracula&hide=stars)
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinyonatann&show_icons=true&hide=stars)
 
 <h3>👨🏻‍💻 My Top Langs</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyonatann&theme=dracula)](https://github.com/martinyonatann/martinyonatann)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyonatann)](https://github.com/martinyonatann/martinyonatann)
 
