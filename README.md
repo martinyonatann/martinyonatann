@@ -15,7 +15,7 @@ I'm a Martin Yonatan Pasaribu, Software Developer focusing on Golang and Java. <
 Here are some ideas to get you started:
 
 
-<!-- - 🔭 I’m currently working in [Validus](https://validus.sg/) -->
+- 🔭 I’m currently working in [Validus](https://validus.sg/)
 - 🌱 I’m currently concentrated on Go, Microservices, Open Source & Distribution Systems
 - 💼 any freelance work? do reach : martin.yonathan305@gmail.com
 - 👯 I’m looking to collaborate on my non-profit Organization [DoWithLogic](https://github.com/DoWithLogic)
