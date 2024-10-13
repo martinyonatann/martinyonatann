@@ -40,9 +40,17 @@ Here are some ideas to get you started:
 
 <h3>📈 My Github Stats</h3>
 
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinyonatann&show_icons=true&hide=stars)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=martinyonatann&show_icons=true&hide=stars" alt="Martin's github stats" style="height: 150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinyonatann" alt="streak-stats" style="height: 150px;" />
+</div>
+
 
 <h3>👨🏻‍💻 My Top Langs</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinyonatann)](https://github.com/martinyonatann/martinyonatann)
+<div style="text-align: center;">
+  <a href="https://github.com/martinyonatann/martinyonatann" style="item-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinyonatann" alt="Top Languages" />
+  </a>
+</div>
 
