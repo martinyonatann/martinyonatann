@@ -38,19 +38,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
 </p>
 
-<h3>📈 My Github Stats</h3>
+## <picture> <img src = "./Public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
 
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinyonatann&show_icons=true&hide=stars" alt="Martin's github stats" style="height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinyonatann" alt="streak-stats" style="height: 150px;" />
-</div>
+<br>
 
-
-<h3>👨🏻‍💻 My Top Langs</h3>
-
-<div style="text-align: center;">
-  <a href="https://github.com/martinyonatann/martinyonatann" style="item-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinyonatann" alt="Top Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme.ujstor.com/top-langs/?username=martinyonatann&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php,html,css,jinja,smarty,mako,javascript,mustache,c,roff" align="center" />
+  <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
+</p>
 
