@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://readme.ujstor.com/top-langs/?username=martinyonatann&theme=transparent&langs_count=8&layout=compact&hide_border=true&hide=jupyter%20notebook,php,html,css,jinja,smarty,mako,javascript,mustache,c,roff" align="center" />
-  <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=Ujstor&theme=transparent&hide_border=true&stroke=transparent" align="center" />
+  <img src="https://streak-stats-92f42ajco-ujstor.vercel.app/?user=martinyonatann&theme=transparent&hide_border=true&stroke=transparent" align="center" />
 </p>
 
