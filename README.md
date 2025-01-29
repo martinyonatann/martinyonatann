@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm a Martin Yonatan Pasaribu, Software Developer focusing on Golang and Java. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Martin Yonatan Pasaribu, a Software Developer who writes code in Golang and Java, and I'm currently learning Rust. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martinpasaribu)](https://www.linkedin.com/in/martinpasaribu/)
@@ -20,22 +20,14 @@ Here are some ideas to get you started:
 - 💼 any freelance work? do reach : martin.yonathan305@gmail.com
 - 👯 I’m looking to collaborate on my non-profit Organization [DoWithLogic](https://github.com/DoWithLogic)
 
-<h3>🚀 Some Tools I Use</h3>
-<p align="left">
-<img src="https://cdn.svgporn.com/logos/go.svg" alt="go" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/java.svg" alt="java" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/spring-icon.svg" alt="spring" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/kafka-icon.svg" alt="kafka" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/prometheus.svg" alt="prometheus" width="25" height="25" />
-<img src="https://cdn.svgporn.com/logos/grafana.svg" alt="grafana" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+## <picture> <img src = "./public/tools.gif?raw=true" width = 50px style="margin-right: 12px;"> </picture> Languages and Tools
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,rust,bash,docker,kubernetes,postgres,gitlab,github,githubactions,kafka,aws,mysql,nginx,linux,prometheus,redis,vscode&perline=6" />
+  </a>
 </p>
 
 ## <picture> <img src = "./public/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
